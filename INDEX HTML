@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Biodata Yunita Rumadurun</title>
+    <style>
+        body {
+            background-color: pink;
+            color: black;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            font-weight: bold;
+            color: black;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Biodata</h1>
+    <p>Halo, perkenalkan nama saya <strong>Yunita Rumadurun</strong> yang sering dipanggil <strong>Yuni</strong>. Saya adalah seorang <strong>mahasiswi</strong> dari <strong>Universitas Kristen Indonesia Maluku</strong>, fakultas <strong>Ilmu Komputer</strong>, dengan prodi <strong>Informatika</strong>.</p>
+
+    <h1>Pendidikan</h1>
+    <p>Selesai SMA pada <strong>Mei 2022</strong>, mulai perkuliahan pada <strong>September 2023</strong>.</p>
+
+    <h1>Hobi</h1>
+    <p><strong>Bernyanyi</strong></p>
+
+    <h1>Motivasi</h1>
+    <p>"Dengan membuat biodata di GitHub, saya dapat memamerkan proyek-proyek saya dan membagikan pengetahuan dengan komunitas ilmu komputer."</p>
+
+</body>
+</html>
